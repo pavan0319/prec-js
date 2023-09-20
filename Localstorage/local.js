@@ -16,4 +16,4 @@ localStorage.setItem("pavan",JSON.stringify(local));
 
 let getData = localStorage.getItem("local");
 
-console.log("this true",getData);
+// console.log("this true",getData);
